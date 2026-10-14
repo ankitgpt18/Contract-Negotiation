@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" shape-rendering="geometricPrecision" role="img" aria-labelledby="title">
+  <title id="title">Contract Negotiation</title>
+  <rect x="2" y="2" width="60" height="60" rx="17" fill="#171717"/>
+  <g transform="translate(12 12)" stroke="#F7F7F5" stroke-width="2.7" stroke-linecap="butt" stroke-linejoin="round">
+    <path d="M7 10h9v4c0 3.314 2.686 6 6 6"/>
+    <path d="M7 30h9v-4c0-3.314 2.686-6 6-6"/>
+  </g>
+  <path d="M39.5 32H46" stroke="#8FCBAA" stroke-width="2.7" stroke-linecap="butt"/>
+  <path d="M34 26.5 39.5 30.5v3L34 37.5 28.5 32z" fill="#8FCBAA"/>
+</svg>
